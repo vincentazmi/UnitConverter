@@ -1,4 +1,5 @@
-Script that can convert the following units into their equivalents:
+# Unit Converter!
+# Script that can convert the following units into their equivalents:
 1. Weight
 2. Distance
 3. Speed
